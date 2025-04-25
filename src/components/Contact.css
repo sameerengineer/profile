@@ -1,0 +1,21 @@
+.contact form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .contact input, .contact textarea {
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  .contact button {
+    background-color: #28a745;
+  }
+  
+  .contact button:hover {
+    background-color: #218838;
+  }

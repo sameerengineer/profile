@@ -1,0 +1,29 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #343a40;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 14px;
+  }
+  
+  .footer ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    gap: 15px;
+  }
+  
+  .footer ul li a {
+    color: #00bcd4;
+    text-decoration: none;
+    font-weight: 500;
+  }
+  
+  .footer ul li a:hover {
+    color: #007bff;
+  }

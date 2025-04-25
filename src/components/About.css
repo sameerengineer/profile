@@ -1,0 +1,30 @@
+.about {
+    text-align: center;
+    padding: 60px 20px;
+    background-color: #f4f4f4;
+  }
+  
+  .about h2 {
+    font-size: 2.5rem;
+    color: #007bff;
+  }
+  
+  .about p {
+    font-size: 1.2rem;
+    color: #555;
+    max-width: 600px;
+    margin: auto;
+    line-height: 1.6;
+  }
+  
+  .about-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .about img {
+    width: 150px;
+    border-radius: 50%;
+    margin-top: 20px;
+  }
